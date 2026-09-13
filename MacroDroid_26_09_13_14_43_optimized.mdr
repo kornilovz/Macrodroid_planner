@@ -545,8 +545,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 6.0,
-                    "m_intValue": 6,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "day_index",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -564,8 +564,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 7.0,
-                    "m_intValue": 7,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "day_num",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -583,8 +583,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 1.0,
-                    "m_intValue": 1,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "time_mode_index",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -602,8 +602,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 2.0,
-                    "m_intValue": 2,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "event_index",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -624,7 +624,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "event_text",
-                    "m_stringValue": "Спортзал",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -643,7 +643,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "Время (ЧЧ:ММ)",
-                    "m_stringValue": "15:10",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -662,7 +662,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "schedule_key",
-                    "m_stringValue": "7 06:10",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -719,125 +719,14 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "delete_text",
-                    "m_stringValue": "Пн 03:05 | Спортзал\nПн 06:00 | Музыка\nПн 12:00 | Гитара\nВт 07:00 | Музыка\nСр 08:00 | Гитара\nЧт 09:00 | Музыка\nПт 10:00 | Гитара\nСб 11:00 | Музыка\nСб 17:00 | Гитара\nВс 03:04 | Спортзал\nВс 12:00 | Музыка",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
                 },
                 {
                     "dictionary": {
-                        "entries": [
-                            {
-                                "key": "0",
-                                "variable": {
-                                    "textValue": "Пн 03:05 | Спортзал",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "1",
-                                "variable": {
-                                    "textValue": "Пн 06:00 | Музыка",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "2",
-                                "variable": {
-                                    "textValue": "Пн 12:00 | Гитара",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "3",
-                                "variable": {
-                                    "textValue": "Вт 07:00 | Музыка",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "4",
-                                "variable": {
-                                    "textValue": "Ср 08:00 | Гитара",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "5",
-                                "variable": {
-                                    "textValue": "Чт 09:00 | Музыка",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "6",
-                                "variable": {
-                                    "textValue": "Пт 10:00 | Гитара",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "7",
-                                "variable": {
-                                    "textValue": "Сб 11:00 | Музыка",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "8",
-                                "variable": {
-                                    "textValue": "Сб 17:00 | Гитара",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "9",
-                                "variable": {
-                                    "textValue": "Вс 03:04 | Спортзал",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "10",
-                                "variable": {
-                                    "textValue": "Вс 12:00 | Музыка",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            }
-                        ],
+                        "entries": [],
                         "isArray": true,
                         "variableType": 5,
                         "type": "Dictionary"
@@ -865,8 +754,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 2.0,
-                    "m_intValue": 2,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "delete_index",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -887,7 +776,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "schedule_clean_text",
-                    "m_stringValue": "1 00:00|Спортзал\n2 09:56|Музыка\n2 12:18|Гитара\n3 03:23|Музыка\n3 04:43|Спортзал\n3 12:54|Чтение\n3 21:43|Спортзал\n3 22:52|Гитара\n4 04:45|Спортзал\n4 06:43|Чтение\n4 09:34|Чтение\n4 19:23|Чтение\n5 04:07|Спортзал\n5 04:49|Спортзал\n5 04:56|Спортзал\n7 06:10|Спортзал\n7 06:20|Музыка\n7 12:00|Музыка",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -962,8 +851,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 1.0,
-                    "m_intValue": 1,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "show_time_mode_index",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -984,7 +873,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "share_result",
-                    "m_stringValue": "Расписание (UTC)\n\nПн 00:00 | Спортзал\nВт 09:56 | Музыка\nВт 12:18 | Гитара\nСр 03:23 | Музыка\nСр 04:43 | Спортзал\nСр 12:54 | Чтение\nСр 21:43 | Спортзал\nСр 22:52 | Гитара\nЧт 04:45 | Спортзал\nЧт 06:43 | Чтение\nЧт 09:34 | Чтение\nЧт 19:23 | Чтение\nПт 04:07 | Спортзал\nПт 04:49 | Спортзал\nПт 04:56 | Спортзал\nВс 06:10 | Спортзал\nВс 06:20 | Музыка\nВс 12:00 | Музыка\n\n--- MacroDroid Schedule v1 ---\nMDUTC-BEGIN\n1 00:00|Спортзал\n2 09:56|Музыка\n2 12:18|Гитара\n3 03:23|Музыка\n3 04:43|Спортзал\n3 12:54|Чтение\n3 21:43|Спортзал\n3 22:52|Гитара\n4 04:45|Спортзал\n4 06:43|Чтение\n4 09:34|Чтение\n4 19:23|Чтение\n5 04:07|Спортзал\n5 04:49|Спортзал\n5 04:56|Спортзал\n7 06:10|Спортзал\n7 06:20|Музыка\n7 12:00|Музыка\nMDUTC-END",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -1003,7 +892,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "Вставьте расписание",
-                    "m_stringValue": "Расписание (UTC)\n\nПн 00:00 | Спортзал\nВт 09:56 | Музыка\nВт 12:18 | Гитара\nСр 03:23 | Музыка\nСр 04:43 | Спортзал\nСр 12:54 | Чтение\nСр 21:43 | Спортзал\nСр 22:52 | Гитара\nЧт 04:45 | Спортзал\nЧт 06:43 | Чтение\nЧт 09:34 | Чтение\nЧт 19:23 | Чтение\nПт 04:07 | Спортзал\nПт 04:49 | Спортзал\nПт 04:56 | Спортзал\nВс 06:10 | Спортзал\nВс 06:20 | Музыка\nВс 12:00 | Музыка\n\n--- MacroDroid Schedule v1 ---\nMDUTC-BEGIN\n1 00:00|Спортзал\n2 09:56|Музыка\n2 12:18|Гитара\n3 03:23|Музыка\n3 04:43|Спортзал\n3 12:54|Чтение\n3 21:43|Спортзал\n3 22:52|Гитара\n4 04:45|Спортзал\n4 06:43|Чтение\n4 09:34|Чтение\n4 19:23|Чтение\n5 04:07|Спортзал\n5 04:49|Спортзал\n5 04:56|Спортзал\n7 06:10|Спортзал\n7 06:20|Музыка\n7 12:00|Музыка\nMDUTC-END",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -1022,7 +911,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "import_clean_text",
-                    "m_stringValue": " :|1 00:00|Спортзал__MDSEP_93A7__ :|2 09:56|Музыка__MDSEP_93A7__ :|2 12:18|Гитара__MDSEP_93A7__ :|3 03:23|Музыка__MDSEP_93A7__ :|3 04:43|Спортзал__MDSEP_93A7__ :|3 12:54|Чтение__MDSEP_93A7__ :|3 21:43|Спортзал__MDSEP_93A7__ :|3 22:52|Гитара__MDSEP_93A7__ :|4 04:45|Спортзал__MDSEP_93A7__ :|4 06:43|Чтение__MDSEP_93A7__ :|4 09:34|Чтение__MDSEP_93A7__ :|4 19:23|Чтение__MDSEP_93A7__ :|5 04:07|Спортзал__MDSEP_93A7__ :|5 04:49|Спортзал__MDSEP_93A7__ :|5 04:56|Спортзал__MDSEP_93A7__ :|7 06:10|Спортзал__MDSEP_93A7__ :|7 06:20|Музыка__MDSEP_93A7__ :|7 12:00|Музыка",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -1041,7 +930,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "import_item_clean",
-                    "m_stringValue": "7 12:00|Музыка",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -1060,7 +949,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "next_countdown",
-                    "m_stringValue": "До следующего события: 27 минут 2 секунды",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -1079,7 +968,26 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "next_epoch_refresh",
-                    "m_stringValue": "1789279800",
+                    "m_stringValue": "",
+                    "m_type": 2,
+                    "supportsInput": false,
+                    "supportsOutput": true
+                },
+                {
+                    "dictionary": {
+                        "entries": [],
+                        "isArray": false,
+                        "variableType": 4,
+                        "type": "Dictionary"
+                    },
+                    "isActionBlockWorkingVar": false,
+                    "isLocalVar": true,
+                    "isSecure": false,
+                    "m_booleanValue": false,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
+                    "m_name": "import_events_text",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -2209,7 +2117,7 @@
                         "m_decimalValue": 0.0,
                         "m_intValue": 0,
                         "m_name": "schedule_key",
-                        "m_stringValue": "7 06:10",
+                        "m_stringValue": "",
                         "m_type": 2,
                         "supportsInput": false,
                         "supportsOutput": true
@@ -2373,7 +2281,7 @@
                                 "m_decimalValue": 0.0,
                                 "m_intValue": 0,
                                 "m_name": "Время (ЧЧ:ММ)",
-                                "m_stringValue": "15:10",
+                                "m_stringValue": "",
                                 "m_type": 2,
                                 "supportsInput": true,
                                 "supportsOutput": true
@@ -5472,7 +5380,7 @@
                         "m_decimalValue": 0.0,
                         "m_intValue": 0,
                         "m_name": "import_clean_text",
-                        "m_stringValue": " :|1 00:00|Спортзал__MDSEP_93A7__ :|2 09:56|Музыка__MDSEP_93A7__ :|2 12:18|Гитара__MDSEP_93A7__ :|3 03:23|Музыка__MDSEP_93A7__ :|3 04:43|Спортзал__MDSEP_93A7__ :|3 12:54|Чтение__MDSEP_93A7__ :|3 21:43|Спортзал__MDSEP_93A7__ :|3 22:52|Гитара__MDSEP_93A7__ :|4 04:45|Спортзал__MDSEP_93A7__ :|4 06:43|Чтение__MDSEP_93A7__ :|4 09:34|Чтение__MDSEP_93A7__ :|4 19:23|Чтение__MDSEP_93A7__ :|5 04:07|Спортзал__MDSEP_93A7__ :|5 04:49|Спортзал__MDSEP_93A7__ :|5 04:56|Спортзал__MDSEP_93A7__ :|7 06:10|Спортзал__MDSEP_93A7__ :|7 06:20|Музыка__MDSEP_93A7__ :|7 12:00|Музыка",
+                        "m_stringValue": "",
                         "m_type": 2,
                         "supportsInput": false,
                         "supportsOutput": true
@@ -5636,7 +5544,7 @@
                                 "m_decimalValue": 0.0,
                                 "m_intValue": 0,
                                 "m_name": "Вставьте расписание",
-                                "m_stringValue": "Расписание (UTC)\n\nПн 00:00 | Спортзал\nВт 09:56 | Музыка\nВт 12:18 | Гитара\nСр 03:23 | Музыка\nСр 04:43 | Спортзал\nСр 12:54 | Чтение\nСр 21:43 | Спортзал\nСр 22:52 | Гитара\nЧт 04:45 | Спортзал\nЧт 06:43 | Чтение\nЧт 09:34 | Чтение\nЧт 19:23 | Чтение\nПт 04:07 | Спортзал\nПт 04:49 | Спортзал\nПт 04:56 | Спортзал\nВс 06:10 | Спортзал\nВс 06:20 | Музыка\nВс 12:00 | Музыка\n\n--- MacroDroid Schedule v1 ---\nMDUTC-BEGIN\n1 00:00|Спортзал\n2 09:56|Музыка\n2 12:18|Гитара\n3 03:23|Музыка\n3 04:43|Спортзал\n3 12:54|Чтение\n3 21:43|Спортзал\n3 22:52|Гитара\n4 04:45|Спортзал\n4 06:43|Чтение\n4 09:34|Чтение\n4 19:23|Чтение\n5 04:07|Спортзал\n5 04:49|Спортзал\n5 04:56|Спортзал\n7 06:10|Спортзал\n7 06:20|Музыка\n7 12:00|Музыка\nMDUTC-END",
+                                "m_stringValue": "",
                                 "m_type": 2,
                                 "supportsInput": true,
                                 "supportsOutput": true
@@ -6270,6 +6178,639 @@
                 {
                     "disableLogging": false,
                     "m_SIGUID": 5004671114594235663,
+                    "m_classType": "EndLoopAction",
+                    "m_comment": "Конец итерации. Следующая итерация начнётся с пересчёта счётчика и только потом покажет меню.",
+                    "m_constraintList": [],
+                    "m_isDisabled": false,
+                    "m_isOrCondition": false
+                },
+                {
+                    "blockNextAction": true,
+                    "m_nonRoot": true,
+                    "m_script": "src=$(cat <<'MD_VALIDATED_SCHEDULE'\n{lv=import_clean_text}\nMD_VALIDATED_SCHEDULE\n)\n\nif [ -z \"$src\" ] || [ \"$src\" = \"__EMPTY__\" ]; then\n    exit\nfi\n\nprintf '%s' \"$src\" | awk '\nBEGIN { RS=\"__MDSEP_93A7__\"; first=1 }\n{\n    sub(/^[[:space:]]*:\\|/, \"\")\n    separator=index($0, \"|\")\n    if (separator == 0) next\n    event=substr($0, separator + 1)\n    if (event == \"\" || seen[event]) next\n    seen[event]=1\n    if (!first) printf \"__MDEVTSEP_4F1C__\"\n    printf \"%s\", event\n    first=0\n}'\n",
+                    "m_variableToSaveResponse": {
+                        "dictionary": {
+                            "entries": [],
+                            "isArray": false,
+                            "variableType": 4,
+                            "type": "Dictionary"
+                        },
+                        "isActionBlockWorkingVar": false,
+                        "isLocalVar": true,
+                        "isSecure": false,
+                        "m_booleanValue": false,
+                        "m_decimalValue": 0.0,
+                        "m_intValue": 0,
+                        "m_name": "import_events_text",
+                        "m_stringValue": "",
+                        "m_type": 2,
+                        "supportsInput": false,
+                        "supportsOutput": true
+                    },
+                    "timeoutSeconds": 5,
+                    "useHelper": false,
+                    "useShizuku": false,
+                    "disableLogging": false,
+                    "m_SIGUID": -8100000000000000000,
+                    "m_classType": "ShellScriptAction",
+                    "m_comment": "Восстанавливает уникальные виды событий из импортированного расписания.",
+                    "m_constraintList": [
+                        {
+                            "checkCase": false,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 1,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 4,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": true,
+                            "m_stringValue": "",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "menu_index",
+                                "m_stringValue": "",
+                                "m_type": 1,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999999,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        },
+                        {
+                            "checkCase": true,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 2,
+                            "enableRegex": true,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 0,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": false,
+                            "m_stringValue": "(?sm).*^MD_IMPORT_TEXT\\r?$.*",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "Вставьте расписание",
+                                "m_stringValue": "",
+                                "m_type": 2,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999998,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "Блокирует строку, способную завершить shell heredoc.",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        }
+                    ],
+                    "m_isDisabled": false,
+                    "m_isOrCondition": false
+                },
+                {
+                    "patternScope": 2,
+                    "selectionMode": 0,
+                    "useRegex": false,
+                    "variableNames": [
+                        "События"
+                    ],
+                    "disableLogging": false,
+                    "m_SIGUID": -8099999999999999997,
+                    "m_classType": "ClearVariablesAction",
+                    "m_comment": "Очищает старые виды событий перед восстановлением из импорта.",
+                    "m_constraintList": [
+                        {
+                            "checkCase": false,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 1,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 4,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": true,
+                            "m_stringValue": "",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "menu_index",
+                                "m_stringValue": "",
+                                "m_type": 1,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999996,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        },
+                        {
+                            "checkCase": true,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 2,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 0,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": false,
+                            "m_stringValue": "INVALID",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "import_clean_text",
+                                "m_stringValue": "",
+                                "m_type": 2,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999995,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        }
+                    ],
+                    "m_isDisabled": false,
+                    "m_isOrCondition": false
+                },
+                {
+                    "m_option": 6,
+                    "m_text": "{lv=import_events_text}",
+                    "m_textManipulation": {
+                        "type": "SplitManipulation",
+                        "params": [
+                            "__MDEVTSEP_4F1C__",
+                            "0"
+                        ]
+                    },
+                    "variableName": "События",
+                    "disableLogging": false,
+                    "m_SIGUID": -8099999999999999994,
+                    "m_classType": "TextManipulationAction",
+                    "m_comment": "Создаёт массив видов событий из импортированного расписания.",
+                    "m_constraintList": [
+                        {
+                            "checkCase": false,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 1,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 4,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": true,
+                            "m_stringValue": "",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "menu_index",
+                                "m_stringValue": "",
+                                "m_type": 1,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999993,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        },
+                        {
+                            "checkCase": true,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 2,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 0,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": false,
+                            "m_stringValue": "INVALID",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "import_clean_text",
+                                "m_stringValue": "",
+                                "m_type": 2,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999992,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        },
+                        {
+                            "checkCase": true,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 2,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 0,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": false,
+                            "m_stringValue": "",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "import_events_text",
+                                "m_stringValue": "",
+                                "m_type": 2,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999991,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        }
+                    ],
+                    "m_isDisabled": false,
+                    "m_isOrCondition": false
+                },
+                {
+                    "dictionaryKeys": {
+                        "keys": []
+                    },
+                    "isArray": true,
+                    "variableName": "События",
+                    "m_fixedOptionCount": 0,
+                    "m_option": 100,
+                    "timedDurationValue": 1,
+                    "timedTimeUnit": 0,
+                    "childrenCollapsed": false,
+                    "dontLogIfConditionIsFalse": false,
+                    "disableLogging": false,
+                    "m_SIGUID": -8099999999999999990,
+                    "m_classType": "IterateDictionaryAction",
+                    "m_comment": "Нормализует элементы массива видов событий.",
+                    "m_constraintList": [
+                        {
+                            "checkCase": false,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 1,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 4,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": true,
+                            "m_stringValue": "",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "menu_index",
+                                "m_stringValue": "",
+                                "m_type": 1,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999989,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        },
+                        {
+                            "checkCase": true,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 2,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 0,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": false,
+                            "m_stringValue": "INVALID",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "import_clean_text",
+                                "m_stringValue": "",
+                                "m_type": 2,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999988,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        },
+                        {
+                            "checkCase": true,
+                            "dictionaryKeys": {
+                                "keys": []
+                            },
+                            "dictionaryType": 2,
+                            "enableRegex": false,
+                            "m_booleanValue": false,
+                            "m_doubleValue": 0.0,
+                            "m_intCompareVariable": false,
+                            "m_intGreaterThan": false,
+                            "m_intLessThan": false,
+                            "m_intNotEqual": false,
+                            "m_intValue": 0,
+                            "m_stringComparisonType": 0,
+                            "m_stringEqual": false,
+                            "m_stringValue": "__EMPTY__",
+                            "m_variable": {
+                                "dictionary": {
+                                    "entries": [],
+                                    "isArray": false,
+                                    "variableType": 4,
+                                    "type": "Dictionary"
+                                },
+                                "isActionBlockWorkingVar": false,
+                                "isLocalVar": true,
+                                "isSecure": false,
+                                "m_booleanValue": false,
+                                "m_decimalValue": 0.0,
+                                "m_intValue": 0,
+                                "m_name": "import_clean_text",
+                                "m_stringValue": "",
+                                "m_type": 2,
+                                "supportsInput": true,
+                                "supportsOutput": true
+                            },
+                            "disableLogging": false,
+                            "m_SIGUID": -8099999999999999987,
+                            "m_classType": "MacroDroidVariableConstraint",
+                            "m_comment": "",
+                            "m_constraintList": [],
+                            "m_isDisabled": false,
+                            "m_isOrCondition": false
+                        }
+                    ],
+                    "m_isDisabled": false,
+                    "m_isOrCondition": false
+                },
+                {
+                    "blockNextAction": true,
+                    "m_nonRoot": true,
+                    "m_script": "v=$(cat <<'MD_ITEM'\n{iterator_value}\nMD_ITEM\n)\n# Убираем ровно служебный префикс :| (и пробелы перед ним), уже после Split to array.\nprintf '%s' \"$v\" | sed 's/^[[:space:]]*:|//'",
+                    "m_variableToSaveResponse": {
+                        "dictionary": {
+                            "entries": [],
+                            "isArray": false,
+                            "variableType": 4,
+                            "type": "Dictionary"
+                        },
+                        "isActionBlockWorkingVar": false,
+                        "isLocalVar": true,
+                        "isSecure": false,
+                        "m_booleanValue": false,
+                        "m_decimalValue": 0.0,
+                        "m_intValue": 0,
+                        "m_name": "import_item_clean",
+                        "m_stringValue": "",
+                        "m_type": 2,
+                        "supportsInput": false,
+                        "supportsOutput": true
+                    },
+                    "timeoutSeconds": 5,
+                    "useHelper": false,
+                    "useShizuku": false,
+                    "disableLogging": false,
+                    "m_SIGUID": -8099999999999999986,
+                    "m_classType": "ShellScriptAction",
+                    "m_comment": "Убирает возможный служебный префикс из вида события.",
+                    "m_constraintList": [],
+                    "m_isDisabled": false,
+                    "m_isOrCondition": false
+                },
+                {
+                    "booleanDictionaryKeys": {
+                        "keys": []
+                    },
+                    "dictionaryKeys": [
+                        "{iterator_array_index}"
+                    ],
+                    "dictionaryOrArrayType": 2,
+                    "existingManualKeyType": 0,
+                    "m_booleanInvert": false,
+                    "m_darkMode": -1,
+                    "m_doubleRandomMax": 0.0,
+                    "m_doubleRandomMin": 0.0,
+                    "m_falseLabel": "Ложь",
+                    "m_intExpression": false,
+                    "m_intRandom": false,
+                    "m_intRandomMax": 0,
+                    "m_intRandomMin": 0,
+                    "m_intValueDecrement": false,
+                    "m_intValueIncrement": false,
+                    "m_newBooleanValue": false,
+                    "m_newDoubleValue": 0.0,
+                    "m_newIntValue": 0,
+                    "m_newStringValue": "{lv=import_item_clean}",
+                    "m_trueLabel": "Истина",
+                    "m_userPrompt": false,
+                    "m_userPromptEmptyAtStart": false,
+                    "m_userPromptPassword": false,
+                    "m_userPromptPasswordToggle": false,
+                    "m_userPromptShowCancel": true,
+                    "m_userPromptStopAfterCancel": true,
+                    "m_variable": {
+                        "dictionary": {
+                            "entries": [],
+                            "isArray": true,
+                            "variableType": 5,
+                            "type": "Dictionary"
+                        },
+                        "isActionBlockWorkingVar": false,
+                        "isLocalVar": false,
+                        "isSecure": false,
+                        "m_booleanValue": false,
+                        "m_decimalValue": 0.0,
+                        "m_intValue": 0,
+                        "m_name": "События",
+                        "m_stringValue": "",
+                        "m_type": 5,
+                        "supportsInput": true,
+                        "supportsOutput": true
+                    },
+                    "disableLogging": false,
+                    "m_SIGUID": -8099999999999999985,
+                    "m_classType": "SetVariableAction",
+                    "m_comment": "Записывает очищенный вид события обратно в массив.",
+                    "m_constraintList": [],
+                    "m_isDisabled": false,
+                    "m_isOrCondition": false
+                },
+                {
+                    "disableLogging": false,
+                    "m_SIGUID": -8099999999999999984,
                     "m_classType": "EndLoopAction",
                     "m_comment": "Конец итерации. Следующая итерация начнётся с пересчёта счётчика и только потом покажет меню.",
                     "m_constraintList": [],
@@ -7080,8 +7621,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 1660.0,
-                    "m_intValue": 1660,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "next_delay",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -7102,7 +7643,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "delay_text",
-                    "m_stringValue": "1660###MD###Спортзал###MD###1789279800",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -7121,45 +7662,14 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "event_text",
-                    "m_stringValue": "Спортзал",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
                 },
                 {
                     "dictionary": {
-                        "entries": [
-                            {
-                                "key": "0",
-                                "variable": {
-                                    "textValue": "1660",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "1",
-                                "variable": {
-                                    "textValue": "Спортзал",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            },
-                            {
-                                "key": "2",
-                                "variable": {
-                                    "textValue": "1789279800",
-                                    "variableType": 2,
-                                    "type": "StringValue"
-                                },
-                                "variableType": 11,
-                                "type": "DictionaryEntry"
-                            }
-                        ],
+                        "entries": [],
                         "isArray": true,
                         "variableType": 5,
                         "type": "Dictionary"
@@ -7187,8 +7697,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 46.0,
-                    "m_intValue": 46,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "version_at_start",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -7209,7 +7719,7 @@
                     "m_decimalValue": 0.0,
                     "m_intValue": 0,
                     "m_name": "version_check_text",
-                    "m_stringValue": "1",
+                    "m_stringValue": "",
                     "m_type": 2,
                     "supportsInput": false,
                     "supportsOutput": true
@@ -7225,8 +7735,8 @@
                     "isLocalVar": true,
                     "isSecure": false,
                     "m_booleanValue": false,
-                    "m_decimalValue": 1.0,
-                    "m_intValue": 1,
+                    "m_decimalValue": 0.0,
+                    "m_intValue": 0,
                     "m_name": "is_current",
                     "m_stringValue": "",
                     "m_type": 1,
@@ -8226,8 +8736,8 @@
             "isLocalVar": false,
             "isSecure": false,
             "m_booleanValue": false,
-            "m_decimalValue": 46.0,
-            "m_intValue": 46,
+            "m_decimalValue": 0.0,
+            "m_intValue": 0,
             "m_name": "Версия расписания",
             "m_stringValue": "",
             "m_type": 1,
@@ -8245,8 +8755,8 @@
             "isLocalVar": false,
             "isSecure": false,
             "m_booleanValue": false,
-            "m_decimalValue": 1789280100,
-            "m_intValue": 1789280100,
+            "m_decimalValue": 0.0,
+            "m_intValue": 0,
             "m_name": "Время следующего события",
             "m_stringValue": "",
             "m_type": 1,
@@ -8255,188 +8765,7 @@
         },
         {
             "dictionary": {
-                "entries": [
-                    {
-                        "key": "0",
-                        "variable": {
-                            "textValue": "1 00:00|Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "1",
-                        "variable": {
-                            "textValue": "2 09:56|Музыка",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "2",
-                        "variable": {
-                            "textValue": "2 12:18|Гитара",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "3",
-                        "variable": {
-                            "textValue": "3 03:23|Музыка",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "4",
-                        "variable": {
-                            "textValue": "3 04:43|Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "5",
-                        "variable": {
-                            "textValue": "3 12:54|Чтение",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "6",
-                        "variable": {
-                            "textValue": "3 21:43|Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "7",
-                        "variable": {
-                            "textValue": "3 22:52|Гитара",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "8",
-                        "variable": {
-                            "textValue": "4 04:45|Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "9",
-                        "variable": {
-                            "textValue": "4 06:43|Чтение",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "10",
-                        "variable": {
-                            "textValue": "4 09:34|Чтение",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "11",
-                        "variable": {
-                            "textValue": "4 19:23|Чтение",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "12",
-                        "variable": {
-                            "textValue": "5 04:07|Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "13",
-                        "variable": {
-                            "textValue": "5 04:49|Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "14",
-                        "variable": {
-                            "textValue": "5 04:56|Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "15",
-                        "variable": {
-                            "textValue": "7 06:10|Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "16",
-                        "variable": {
-                            "textValue": "7 06:20|Музыка",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "17",
-                        "variable": {
-                            "textValue": "7 12:00|Музыка",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    }
-                ],
+                "entries": [],
                 "isArray": true,
                 "variableType": 5,
                 "type": "Dictionary"
@@ -8467,55 +8796,14 @@
             "m_decimalValue": 0.0,
             "m_intValue": 0,
             "m_name": "Следующее событие Unix",
-            "m_stringValue": "1789279800",
+            "m_stringValue": "",
             "m_type": 2,
             "supportsInput": false,
             "supportsOutput": true
         },
         {
             "dictionary": {
-                "entries": [
-                    {
-                        "key": "0",
-                        "variable": {
-                            "textValue": "Музыка",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "1",
-                        "variable": {
-                            "textValue": "Гитара",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "2",
-                        "variable": {
-                            "textValue": "Спортзал",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    },
-                    {
-                        "key": "3",
-                        "variable": {
-                            "textValue": "Чтение",
-                            "variableType": 2,
-                            "type": "StringValue"
-                        },
-                        "variableType": 11,
-                        "type": "DictionaryEntry"
-                    }
-                ],
+                "entries": [],
                 "isArray": true,
                 "variableType": 5,
                 "type": "Dictionary"
@@ -8546,7 +8834,7 @@
             "m_decimalValue": 0.0,
             "m_intValue": 0,
             "m_name": "Текущее событие",
-            "m_stringValue": "{lv=shell_parts[1]}",
+            "m_stringValue": "",
             "m_type": 2,
             "supportsInput": false,
             "supportsOutput": true
